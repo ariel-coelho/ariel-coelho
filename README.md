@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/ariel-coelho/ariel-coelho/blob/output/github-contribution-grid-snake.svg)
+
 
 # Ariel Coelho
 PARATY - RIO DE JANEIRO ------> CAPÃO REDONDO - SÃO PAULO
