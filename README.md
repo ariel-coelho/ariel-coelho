@@ -1,10 +1,12 @@
+![Snake animation](https://github.com/ariel-coelho/ariel-coelho/blob/output/github-contribution-grid-snake.svg)
+
 # Ariel Coelho
 PARATY - RIO DE JANEIRO ------> CAPÃO REDONDO - SÃO PAULO
 - Quartebak do time regional de futebol americano da cidade de Paraty - RJ (2014);
 - Goleiro do time Municipal da Cidade de Paraty - RJ (2015 - 2016);
 - Agora cursando Ciencia da Computação eem São Paulo;
-- Trabalhando como Cuporte de TI na empresa IPAEAS;
-Minha vida tem sido bem louca e com muitas oportunidades. Foco no orizonte e bola pra frente. 
+- Trabalhando como Suporte de TI na empresa IPAEAS;
+Minha vida tem sido bem louca e com muitas oportunidades. Foco no horizonte e bola pra frente. 
 
 ## Minhas redes Sociais 😁
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arielcoelho555@gmail.com)
