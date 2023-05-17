@@ -7,7 +7,9 @@ PARATY - RIO DE JANEIRO ------> CAPÃO REDONDO - SÃO PAULO
 - Agora cursando Ciencia da Computação eem São Paulo;
 - Trabalhando como Suporte de TI na empresa IPAEAS;
 Minha vida tem sido bem louca e com muitas oportunidades. Foco no horizonte e bola pra frente. 
-
+</br></br>
+![Snake animation](https://github.com/ariel-coelho/ariel-coelho/blob/output/github-contribution-grid-snake.svg)
+</br></br>
 ## Minhas redes Sociais 😁
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arielcoelho555@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariel.coelho.z/)
