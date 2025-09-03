@@ -5,7 +5,8 @@ PARATY - RIO DE JANEIRO ------> CAPÃO REDONDO - SÃO PAULO
 - Quartebak do time regional de futebol americano da cidade de Paraty - RJ (2014);
 - Goleiro do time Municipal da Cidade de Paraty - RJ (2015 - 2016);
 - Agora cursando Ciencia da Computação eem São Paulo;
-- Trabalhando como Suporte de TI na empresa IPAEAS;
+- Suporte de TI;
+- Analista de TI jr (atualmente);
 Minha vida tem sido bem louca e com muitas oportunidades. Foco no horizonte e bola pra frente. 
 
 
